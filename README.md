@@ -62,9 +62,13 @@ I did not really know where to use Inheritance, but it is used by initialize(URL
 _________________________________________________________________________________________
 Final note:
 I did not use any LLM models in the process of the making of this project.
+
 I did however use a video tuturial "JavaFX Memory Game" as a refence for figuring out how to do certain things like:
+
 -finding that I could use the imageView objects to do what I wanted.
+
 -how to do what I needed with the scene builder (like adding the flowPane to the scene)
+
 -Using initialize
 
 So there is going to be some code that is copied from the tutorial, whether directly or indirectly.
